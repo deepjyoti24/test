@@ -1,5 +1,0 @@
-{{#user}}
-Name: Deepjyoti Kalita
-Skills: HTML, CSS, JS, C/C++, python, Mysql
-Email: kdeepjyoti311@gmail.com
-{{/user}}
